@@ -1,3 +1,4 @@
 # TRACE
 
-[🤗 Hugging Face](https://huggingface.co/datasets/zywu/TRACE)
+
+- 🤗 **Dataset:** [TRACE](https://huggingface.co/datasets/zywu/TRACE)
